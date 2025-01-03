@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I am Tomin Joe Justin</h1>
 
 <div align="center" width="100%">
-  <img  width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tomin-Joe&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" />
+  <img  width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tomin-Joe&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" />
 </div>
 
 <h3 align="center">Languages</h3>
